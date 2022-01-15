@@ -4,7 +4,6 @@
     Id: 20CE092
     Link: https://github.com/meshv-p/CE259_Practical-2_Assignment.git
 '''
-from heapq import merge
 
 
 sample = {
